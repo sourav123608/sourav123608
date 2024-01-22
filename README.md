@@ -1,7 +1,7 @@
  Hi there 👋
 
 
-- 🔭 I’m currently working on App Development
+- 🔭 I’m currently working on Cross Platform App Development
 - 🌱 I’m currently learning Web Dev
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me Anything...
