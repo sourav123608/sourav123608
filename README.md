@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Cross Platform App Development
 - 🌱 I’m currently learning Web Dev
 - 👯 I’m looking to collaborate on Open Source
-- 💬 Ask me Anything...
+- 💬 Ask me Anything about Flutter,Dart...
   
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sourav.panda.58958/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/d_sk_panda/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sourav-kumar-panda-02400b202/) 
